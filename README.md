@@ -24,16 +24,6 @@
   <span> • </span>
   <a href="#-quick-start">🎮 Quick start</a>
   <span> • </span>
-  <a href="#-docker">🐋 Docker</a>
-  <span> • </span>
-  <a href="#-api">🐝 API</a>
-  <span> • </span>
-  <a href="#-configuration">🔧 Configuration</a>
-  <span> • </span>
-  <a href="#-testing">📋 Testing</a>
-  <span> • </span>
-  <a href="#-troubleshooting--debugging">🐛 Troubleshooting & debugging</a>
-  <span> • </span>
   <a href="#-acknowledgements">😍 Acknowledgements</a>
   <span> • </span>
   <a href="#-links">🌐 Links</a>
@@ -51,11 +41,6 @@
 
 * [Install](#-install)
 * [Quick start](#-quick-start)
-* [Docker](#-docker)
-* [API](#-api)
-* [Configuration](#-configuration)
-* [Testing](#-testing)
-* [Troubleshooting & debugging](#-troubleshooting--debugging)
 * [Acknowledgements](#-acknowledgements)
 * [Links](#-links)
 * [Contributing](#-contributing)
@@ -76,44 +61,16 @@ npm -g install .
 To start using lotionroom-cli just run `lr`
 
 ***
-## 🐋 Docker
-
-```bash
-docker build -t lotionroom-cli .
-docker run --rm -it lotionroom-cli
-```
-
-***
-## 🐝 API
-
-***
-## 🔧 Configuration
-
-***
-
-## 📋 Testing
-
-***
-## 🐛 Troubleshooting & debugging
-
-***
 ## 😍 Acknowledgements
 
 Copyright © 2020 by [Dyne.org](https://www.dyne.org) foundation, Amsterdam
 
 Designed, written and maintained by Puria Nafisi Azizi.
 
-Special thanks to Mr. W. White for his special contributions.
-
-
-
 ***
 ## 🌐 Links
 
-https://www.somelink.io/
-
 https://dyne.org/
-
 
 ***
 ## 👤 Contributing
